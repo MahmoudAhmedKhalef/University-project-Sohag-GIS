@@ -34,4 +34,4 @@ Welcome to the graduation project of the Survey and Maps batch in the subject of
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
+<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="900px">
