@@ -31,3 +31,6 @@ Welcome to the graduation project of the Survey and Maps batch in the subject of
 8- Al-Awamry before me.
 9- Build a living.
 10-Quran.
+
+
+![pc](https://goo.gl/maps/n1WoPcdBhRQ76fh76?coh=178573&entry=tt)
