@@ -33,4 +33,4 @@ Welcome to the graduation project of the Survey and Maps batch in the subject of
 10-Quran.
 
 
-![pc](https://goo.gl/maps/n1WoPcdBhRQ76fh76?coh=178573&entry=tt)
+<img align="right" width="400" height="400" src="https://goo.gl/maps/n1WoPcdBhRQ76fh76?coh=178573&entry=tt">
