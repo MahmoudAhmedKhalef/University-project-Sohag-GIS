@@ -33,6 +33,6 @@ Welcome to the graduation project of the Survey and Maps batch in the subject of
 10-Quran.
 
 
-## ⭐️ Girga city(https://github.com/SrishtiSinghD) 
+## ⭐️ Girga city 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/%D9%85%D8%B1%D9%83%D8%B2_%D8%AC%D8%B1%D8%AC%D8%A7.png" width="900px">
